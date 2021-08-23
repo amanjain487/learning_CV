@@ -18,7 +18,7 @@
 ```
 
 ## To Train and Test the Model
-clone (https://github.com/amanjain487/learning_CV/tree/main/Object%20Detection/Transformers/WIDER%20FACE%20-%20Face%20Detection)
+clone [this github directory](https://github.com/amanjain487/learning_CV/tree/main/Object%20Detection/Transformers/WIDER%20FACE%20-%20Face%20Detection)
 1. Mount Drive
 2. Download Dataset from above links and save them in dataset directory
 3. Run the Colab File
