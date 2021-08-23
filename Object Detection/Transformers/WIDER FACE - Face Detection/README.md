@@ -21,12 +21,17 @@
 clone [this github directory](https://github.com/amanjain487/learning_CV/tree/main/Object%20Detection/Transformers/WIDER%20FACE%20-%20Face%20Detection)
 1. Mount Drive
 2. Download Dataset from above links and save them in dataset directory
-3. Run the Colab File
+3. Download weights from [this link]()
+4. Upload/Save the weights in the following path
+```
+Wider Face/detr/weights/weights_file.pth
+```
+6. Run the Colab File
   - Unzip Dataset
   - Separate annotations
   - Train the model
   - Test the model
-4. Output Images are saved in output_images directory
+7. Output Images are saved in output_images directory
 
 ## Test Results
 
