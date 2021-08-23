@@ -18,12 +18,12 @@
 ```
 
 ## To Train and Test the Model
+clone ```[](https://github.com/amanjain487/learning_CV/tree/main/Object%20Detection/Transformers/WIDER%20FACE%20-%20Face%20Detection)```
 1. Mount Drive
 2. Download Dataset from above links and save them in dataset directory
 3. Run the Colab File
   - Unzip Dataset
   - Separate annotations
-  - clone ```[]()```
   - Train the model
   - Test the model
 4. Output Images are saved in output_images directory
