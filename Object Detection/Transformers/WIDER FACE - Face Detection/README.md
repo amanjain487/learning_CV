@@ -27,10 +27,10 @@ clone [this github directory](https://github.com/amanjain487/learning_CV/tree/ma
 Wider Face/detr/weights/weights_file.pth
 ```
 6. Run the Colab File
-  - Unzip Dataset
-  - Separate annotations
-  - Train the model
-  - Test the model
+    - Unzip Dataset
+    - Separate annotations
+    - Train the model
+    - Test the model
 7. Output Images are saved in output_images directory
 
 ## Test Results
